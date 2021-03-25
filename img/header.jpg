@@ -1,13 +1,1 @@
-header {
-    position: relative;
-    width: 100%;
-    min-height: auto;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-    background-position: center;
-    background-image: url(../img/header.jpg);
-    text-align: center;
-    color: white;
-}
+https://live.staticflickr.com/5186/5643112994_d12127d73e_b.jpg
