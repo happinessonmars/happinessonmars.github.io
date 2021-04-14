@@ -126,7 +126,7 @@ aside {
             }
         }
         &.affix {
-            background-color: white;
+            background-color: red;
             border-color: rgba($theme-dark, .5);
             .navbar-header .navbar-brand {
                 color: $theme-primary;
@@ -155,7 +155,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url('../img/Marsmile.jpg');
     text-align: center;
     color: white;
     .header-content {
